@@ -1,0 +1,22 @@
+body{
+    background-image: url("../images/subway-lines.png");
+    position: relative;
+    background-repeat: repeat;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+.jumbotron{
+    font-family: 'Righteous', cursive !important;
+    background-color: #d0d0ca !important;
+    color: #e39611 !important;
+}
+
+.card-header {
+    background-color: #d0d0ca !important;
+    font-weight: bold;
+    color: #52bfc8 !important;
+    border-color: #fd490c !important;
+}
